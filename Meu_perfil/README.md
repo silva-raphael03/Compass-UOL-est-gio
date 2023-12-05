@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Aqui você encontrará informações sobre minhas habil
 ## Sprints
 
 - [Sprint 1 - Git , GitHub e Linux.](Sprint1/README.md)
-- [Sprint 2 - ](Sprint2/README.md)
+- [Sprint 2 - SQL, BigData.](Sprint2/README.md)
 - [Sprint 3 - ](Sprint3/README.md)
 - [Sprint 4 - ](Sprint4/README.md)
 - [Sprint 5 - ](Sprint5/README.md)
