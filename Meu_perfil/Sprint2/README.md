@@ -33,14 +33,14 @@ Nesta sprint desenvolvi habilidades suficientes para desenvolver querys utilizan
 
 ##### Exercício 2
 ![evidencia csv](../../images/evidências/ex1.png)
-![evidencia csv 2](../../images/evidências/ex2.png)
+![evidencia csv 2](../../images/evidências/correcao.png)
 
 
 ### Arquivos csv
 ##### Arquivo 1
 ![reultado 1](../../csv/resultado1.csv)
 ##### Arquivo 2
-![reultado 2](../../csv/resultado2.csv)
+![reultado 2](../../csv/correcao.csv)
 ## Próximos Passos
 
 Para o próximo sprint, estou planejando explorar mais a fundo as tecnologias relacionadas.
