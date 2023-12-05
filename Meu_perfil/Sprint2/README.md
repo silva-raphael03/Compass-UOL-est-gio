@@ -11,6 +11,7 @@ Nesta sprint desenvolvi habilidades suficientes para desenvolver querys utilizan
 
 ![Data analitics](../../images/certificados/data&tecno.jpg)
 ![SQL](../../images/certificados/certificado_de_SQL.jpg)
+![data analytics](../../images/certificados/Captura%20de%20Tela%20(236).png)
 
 ### Evidências
 ##### Exercício 1
