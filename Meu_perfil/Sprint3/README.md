@@ -4,7 +4,7 @@ Nesta sprint desenvolvi habilidades em phyton do nível  básico ao avançado pa
 
 ## Tecnologias e Habilidades
 
--Phyton
+-Python
 
 ### Certificação 
 
