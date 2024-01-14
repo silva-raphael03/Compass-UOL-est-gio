@@ -1,4 +1,4 @@
-# Sprint 3 - 
+# Sprint 5 - Amazon Web Services: AWS
 
 Nesta sprint desenvolvi habilidades em AMAZON WEB SERVICES, serviços esses voltados para computação em nuvem,adquiri habilidades para manipular dados na nuvem, criação de máquinas virtuais, criação de banco de dados,entre outras ferramentas, por meio do game da AWS CLOUD QUEST, consegui desemvolver e praticar com os serviços ofertados pela AWS, adquirindo habilidades e conhecimentos básicos para se trabalhar na nuvem.
 ## Tecnologias e Habilidades
