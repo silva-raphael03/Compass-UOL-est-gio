@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil! Aqui você encontrará informações sobre minhas habil
 - [Sprint 3 - Python ](Sprint3/README.md)
 - [Sprint 4 - Docker ](Sprint4/README.md)
 - [Sprint 5 - Amazon Web Services: AWS](Sprint5/README.md)
-- [Sprint 6-  ](Sprint6/README.md)
+- [Sprint 6-  Amazon Web Services: AWS  ](Sprint6/README.md)
 - [Sprint 7-  ](Sprint7/README.md)
 - [Sprint 8-  ](Sprint8/README.md)
 - [Sprint 9-  ](Sprint9/README.md)
