@@ -44,3 +44,10 @@ word_counts.collect()
 
 ### Certificados 
 ![evidência de python Pandas](../../images/certificados/cristiano.jpg)
+![evidência de python Pandas](../../images/certificados/certificadohadoop.jpg)
+
+## Próximos Passos
+
+Para o próximo sprint, estou planejando explorar mais a fundo as tecnologias relacionadas.
+
+Continue lendo [aqui](../Sprint8/README.md) para descobrir mais sobre minhas habilidades nessa nova tecnologia.
