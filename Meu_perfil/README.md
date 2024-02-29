@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil! Aqui você encontrará informações sobre minhas habil
 - [Sprint 5 - Amazon Web Services: AWS](Sprint5/README.md)
 - [Sprint 6-  Amazon Web Services: AWS  ](Sprint6/README.md)
 - [Sprint 7- Spark e Hadoop ](Sprint7/README.md)
-- [Sprint 8-  ](Sprint8/README.md)
+- [Sprint 8- AWS Services  ](Sprint8/README.md)
 - [Sprint 9-  ](Sprint9/README.md)
 - [Sprint 10- ](Sprint10/README.md)
 
